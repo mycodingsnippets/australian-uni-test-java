@@ -1,0 +1,7 @@
+2
+Truck
+10001.0
+false
+Car
+501.0
+true
